@@ -404,7 +404,7 @@ Antes de prosseguir para o Passo 6, certifique-se de que:
 
 - [ ] A classe tem a anotação `[TestClass]`
 - [ ] O método Setup está implementado com `[TestInitialize]`
-- [ ] Todos os 14 testes mínimos estão implementados
+- [ ] Todos os **14** testes mínimos estão implementados
 - [ ] Cada teste segue o padrão AAA com comentários
 - [ ] Cada teste tem um nome descritivo seguindo a convenção
 - [ ] Os testes estão organizados em regions por método
@@ -526,21 +526,14 @@ Objeto `Calculadora` criado uma vez antes de cada teste, garantindo isolamento.
 
 Você deve submeter via **Microsoft Teams** um documento em formato **PDF ou Word** contendo:
 
-#### 1. Capa com Identificação
-- Nome completo
-- Matrícula
-- Disciplina: Engenharia de Software
-- Data de entrega
-- Título: "Laboratório Prático - TDD com C# e MSTest"
-
-#### 2. Captura de Tela #1 - Testes Falhando (RED)
+#### 1. Captura de Tela #1 - Testes Falhando (RED)
 - Screenshot do **Test Explorer** mostrando **todos os testes com falha**
 - Deve ser visível:
   - Lista completa de testes
   - Ícones vermelhos (❌) indicando falha
   - Timestamp da execução
 
-#### 3. Captura de Tela #2 - Testes Passando (GREEN)
+#### 2. Captura de Tela #2 - Testes Passando (GREEN)
 - Screenshot do **Test Explorer** mostrando **todos os testes com sucesso**
 - Deve ser visível:
   - Lista completa de testes
@@ -548,7 +541,7 @@ Você deve submeter via **Microsoft Teams** um documento em formato **PDF ou Wor
   - Timestamp da execução
   - Tempo total de execução
 
-#### 4. Código-Fonte Completo
+#### 3. Código-Fonte Completo
 
 **a) Classe de Teste Completa (`CalculadoraTests.cs`)**
 ```
@@ -567,7 +560,6 @@ Você deve submeter via **Microsoft Teams** um documento em formato **PDF ou Wor
 ### Instruções de Entrega
 
 1.  ***A entrega é individual na atividade do TEAMS***
-
 
 ---
 
