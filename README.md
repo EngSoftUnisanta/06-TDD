@@ -562,32 +562,12 @@ Você deve submeter via **Microsoft Teams** um documento em formato **PDF ou Wor
 - Versão final com todos os métodos implementados
 ```
 
-#### 5. Reflexão Pessoal (Mínimo 10 linhas)
 
-Responda às seguintes questões:
-
-1. **Quais foram os principais desafios ao aplicar TDD?**
-2. **Como o ciclo RED-GREEN-REFACTOR influenciou seu processo de desenvolvimento?**
-3. **Quais vantagens você identificou ao escrever testes antes da implementação?**
-4. **Como a prática de TDD pode ser aplicada em projetos maiores?**
 
 ### Instruções de Entrega
 
-1. **Prazo:** Conforme definido no cronograma da disciplina
-2. **Plataforma:** Microsoft Teams - Canal da disciplina
-3. **Formato:** Arquivo único PDF ou DOCX
-4. **Nomenclatura:** `TDD_Lab_SeuNome_Matricula.pdf`
-5. **Tamanho máximo:** 10 MB
+1.  ***A entrega é individual na atividade do TEAMS***
 
-### Critérios de Avaliação
-
-| Critério | Peso | Descrição |
-|----------|------|-----------|
-| **Execução Correta** | 30% | Capturas de tela demonstram corretamente as fases RED e GREEN |
-| **Código de Teste** | 30% | Testes bem escritos, seguindo padrões AAA e boas práticas |
-| **Implementação** | 20% | Código da calculadora correto e funcional |
-| **Organização** | 10% | Documento bem formatado e organizado |
-| **Reflexão** | 10% | Análise crítica demonstrando compreensão dos conceitos |
 
 ---
 
@@ -709,29 +689,5 @@ Antes de submeter, verifique:
 - [ ] Screenshot #2 (testes passando) está presente e legível
 - [ ] Código da classe de teste está completo e formatado
 - [ ] Código da classe Calculadora está presente
-- [ ] Reflexão pessoal tem no mínimo 10 linhas
-- [ ] Documento está bem formatado e sem erros de ortografia
-- [ ] Nome do arquivo segue o padrão: `TDD_Lab_SeuNome_Matricula.pdf`
-- [ ] Arquivo foi enviado no Teams no canal correto
 
----
 
-## 📞 Suporte
-
-Em caso de dúvidas:
-
-- **Horário de Atendimento:** Conforme cronograma da disciplina
-- **Canal no Teams:** Utilize o canal de dúvidas da disciplina
-- **Email do Professor:** [Conforme fornecido na disciplina]
-
----
-
-**Boa prática e bons estudos!** 🚀
-
-*Desenvolvendo software de qualidade, um teste por vez.*
-
----
-
-**Última atualização:** Outubro/2025  
-**Versão:** 2.0  
-**Professor:** Claudio Nunes
