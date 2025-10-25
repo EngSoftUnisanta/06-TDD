@@ -214,13 +214,20 @@ Sua classe de testes deve:
 2. **Importar os namespaces necessários:**
    - `Microsoft.VisualStudio.TestTools.UnitTesting`
    - `CalculadoraTDD` (projeto principal)
+     
+**Opção A**
 
-3. **Declarar uma variável privada** do tipo `Calculadora`
+3. **Declarar uma variável privada** do tipo `Calculadora` 
 
 4. **Implementar um método de Setup:**
    - Anotado com `[TestInitialize]`
    - Instancia o objeto `Calculadora` antes de cada teste
    - Garante que cada teste tenha uma nova instância (isolamento)
+  
+**Opção B**
+
+3. **Em cada método de teste declare uma nova instância da classe** `Calculadora` 
+
 
 #### 🧪 Estrutura de Cada Método de Teste
 
@@ -531,15 +538,14 @@ Você deve submeter via **Microsoft Teams** um documento em formato **PDF ou Wor
 - Deve ser visível:
   - Lista completa de testes
   - Ícones vermelhos (❌) indicando falha
-  - Timestamp da execução
+  
 
 #### 2. Captura de Tela #2 - Testes Passando (GREEN)
 - Screenshot do **Test Explorer** mostrando **todos os testes com sucesso**
 - Deve ser visível:
   - Lista completa de testes
   - Ícones verdes (✅) indicando sucesso
-  - Timestamp da execução
-  - Tempo total de execução
+
 
 #### 3. Código-Fonte Completo
 
